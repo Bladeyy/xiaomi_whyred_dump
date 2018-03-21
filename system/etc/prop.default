@@ -1,0 +1,18 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.miui.has_cust_partition=true
+ro.secureboot.devicelock=1
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Thu Mar 8 18:46:02 CST 2018
+ro.bootimage.build.date.utc=1520505962
+ro.bootimage.build.fingerprint=xiaomi/whyred/whyred:8.1.0/OPM1.171019.011/V9.5.4.0.OEICNFA:user/release-keys
+persist.sys.usb.config=none
+
